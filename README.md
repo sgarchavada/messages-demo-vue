@@ -33,3 +33,10 @@ npm run build
 ```sh
 npm run lint
 ```
+
+### Note
+
+In this demo I am using [jsonplaceholder](https://jsonplaceholder.typicode.com/guide/) Mock API for adding message to users.
+which is not actually storing message to server, but it will be faked as if. you can check the jsonplaceholder guide for more info.
+
+Important: resource will not be really updated on the server but it will be faked as if.
