@@ -4,7 +4,11 @@ export default {
   content: [],
   darkMode: false,
   theme: {
-    extend: {}
+    extend: {},
+    container: {
+      padding: '2rem',
+      center: true
+    }
   },
   plugins: []
 }
